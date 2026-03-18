@@ -91,23 +91,9 @@ triangle-classifier/
 │
 ├─ main.pas
 ├─ .gitignore
+├─ LICENSE
 └─ README.md
 ```
-
----
-
-## Educational Purpose
-
-This project was created as a **learning exercise** to explore:
-
-* Pascal syntax and program structure
-* writing procedures
-* sorting small datasets
-* implementing simple geometric rules in code
-
-It is **not intended for production use**, but rather as a small demonstration project for studying Pascal and basic programming concepts.
-
----
 
 ## License
 
